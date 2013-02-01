@@ -1,0 +1,33 @@
+body{
+    background-color: #999;
+     font-family: Arial,Helvetica,sans-serif;}
+.limpiar{
+    clear: both;
+}
+.pricipal{
+    position:relative;
+    width: 980px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 0 0 20px #000;
+    background-color: #fff;}
+.pricipal h1,.pricipal h2{
+    color:#900; }
+.contenedor_izq{
+	position:relative;
+	float:left;
+	width:400px;}
+#traducido{
+	background-color:#CCC;
+        padding: 10px;
+		min-height:120px;}
+.botonS{
+    position: relative;
+    margin: 3px;
+    float:right;
+}
+#cargar{
+	position:absolute;
+	left:70px;
+	top:30px;
+	display:none;}
